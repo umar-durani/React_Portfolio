@@ -1,0 +1,38 @@
+.home-bg {
+  background-image: url("../assets/img/bg.jpg");
+  background-color: #1f2833;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50%;
+}
+li.nav__items {
+  font-size: 18px;
+  padding-bottom: 15px;
+}
+.home-content {
+  margin-top: -60px;
+  padding: 100px 0px;
+}
+h1.home-text {
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 3px;
+  color: rgba(198, 201, 216, 0.75) !important;
+}
+h2.home-text {
+  font-size: 54px;
+  line-height: 54px;
+  font-weight: 800;
+  color: #fff;
+}
+h3.home-text {
+  font-size: 50px;
+  font-weight: 800;
+  line-height: 40px;
+}
+h4.home-text {
+  font-size: 50px;
+  font-weight: 800;
+  line-height: 40px;
+  color: #fff;
+}
